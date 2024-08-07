@@ -9,7 +9,7 @@
 
 <h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/francisco-aimino" target="blank">
+  <a href="https://www.linkedin.com/in/francisco-aimino-471436211/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco aimino" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin-right: 10px; " />
   </a>
  
