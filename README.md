@@ -32,8 +32,22 @@
 
 
 
-
 <h2 align="center">Idiomas y herramientas:</h2>
+
+<div align="center">
+  <div style="display: flex; flex-wrap: nowrap; justify-content: center;">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" style="margin: 10px;" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" style="margin: 10px;" />
+  </div>
+</div>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -44,9 +58,6 @@
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
   </a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
@@ -75,14 +86,8 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
@@ -96,20 +101,8 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
