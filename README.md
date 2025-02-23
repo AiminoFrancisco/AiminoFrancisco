@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Aimino Francisco</h1>
-<h3 align="center">Un apasionado DESARROLLADOR BACKEND, FRONTEND Y APP de Argentina</h3>
+<h3 align="center">Un apasionado DESARROLLADOR FRONTEND , BACKEND Y APP de Argentina</h3>
 
 
 - 🔭 Actualmente estoy trabajando en [Grupo Rosa Negra y Coco Bongo](https://www.cocobongo.com/?lang=es)
