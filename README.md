@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Francisco Aimino</h1>
+<h1 align="center">Hola 👋, soy Francisco Aimino</h1>
 
 <h3 align="center">Frontend Engineer | Mobile & Web | Building scalable products for international clients</h3>
 
@@ -9,22 +9,22 @@
   <a href="mailto:franciscoaimino2001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Córdoba,%20Argentina-blue?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Ubicación-Córdoba,%20Argentina-blue?style=for-the-badge" alt="Ubicación" />
 </p>
 
 ---
 
-### 👨‍💻 About me
+### 👨‍💻 Sobre mí
 
-- 🚀 Frontend Engineer focused on **mobile and web application development**.
-- 💻 Currently working on scalable products for international clients.
-- 🤖 I integrate **AI in my development workflow**, working with **Claude** as a daily tool and building custom agents to boost team productivity.
-- 🌱 Always exploring new technologies and approaches that bring real value to the product.
-- 📫 Reach me at **franciscoaimino2001@gmail.com**
+- 🚀 Frontend Engineer enfocado en el **desarrollo de aplicaciones móviles y web**.
+- 💻 Actualmente construyendo productos escalables para clientes internacionales.
+- 🤖 Integro **IA en mi flujo de desarrollo**, trabajando con **Claude** como herramienta diaria y desarrollando agentes personalizados para potenciar la productividad del equipo.
+- 🌱 Siempre explorando nuevas tecnologías y enfoques que generen valor real al producto.
+- 📫 Contactame en **franciscoaimino2001@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Stack
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="55" height="55" style="margin: 8px;" />
@@ -49,18 +49,18 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AiminoFrancisco&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AiminoFrancisco&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AiminoFrancisco&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AiminoFrancisco&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiminoFrancisco&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiminoFrancisco&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Top Languages" />
 </p>
 
 <p align="center">
