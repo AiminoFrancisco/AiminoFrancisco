@@ -2,7 +2,7 @@
 <h3 align="center">Un apasionado DESARROLLADOR FRONTEND , BACKEND Y APP de Argentina</h3>
 
 
-- 🔭 Actualmente estoy trabajando en [Grupo Rosa Negra y Coco Bongo](https://www.cocobongo.com/?lang=es)
+
 - 👨‍💻 Todos mis proyectos están disponibles en [https://francisco-aimino.vercel.app/](https://francisco-aimino.vercel.app/)
 - 💬 Pregúntame sobre **React, React Native, Node**
 - 📫 Cómo contactarme **franciscoaimino2001@gmail.com**
