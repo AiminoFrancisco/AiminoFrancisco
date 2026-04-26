@@ -1,117 +1,70 @@
-<h1 align="center">Hola 👋, soy Aimino Francisco</h1>
-<h3 align="center">Un apasionado DESARROLLADOR FRONTEND , BACKEND Y APP de Argentina</h3>
+<h1 align="center">Hi 👋, I'm Francisco Aimino</h1>
 
+<h3 align="center">Frontend Engineer | Mobile & Web | Building scalable products for international clients</h3>
 
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://francisco-aimino.vercel.app/](https://francisco-aimino.vercel.app/)
-- 💬 Pregúntame sobre **React, React Native, Node**
-- 📫 Cómo contactarme **franciscoaimino2001@gmail.com**
-
-<h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/francisco-aimino-471436211/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco aimino" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin-right: 10px; " />
+  <a href="https://www.linkedin.com/in/francisco-aimino-471436211/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
- 
+  <a href="mailto:franciscoaimino2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Córdoba,%20Argentina-blue?style=for-the-badge" alt="Location" />
 </p>
 
+---
 
+### 👨‍💻 About me
 
+- 🚀 Frontend Engineer focused on **mobile and web application development**.
+- 💻 Currently working on scalable products for international clients.
+- 🤖 I integrate **AI in my development workflow**, working with **Claude** as a daily tool and building custom agents to boost team productivity.
+- 🌱 Always exploring new technologies and approaches that bring real value to the product.
+- 📫 Reach me at **franciscoaimino2001@gmail.com**
 
+---
 
-<h2 align="center">Major Achievements</h2>
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="55" height="55" style="margin: 8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="55" height="55" style="margin: 8px; background: white; border-radius: 8px; padding: 4px;" />
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="55" height="55" style="margin: 8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="55" height="55" style="margin: 8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55" style="margin: 8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="55" height="55" style="margin: 8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55" style="margin: 8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55" style="margin: 8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55" style="margin: 8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="55" height="55" style="margin: 8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="55" height="55" style="margin: 8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55" style="margin: 8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55" style="margin: 8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="55" height="55" style="margin: 8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="55" height="55" style="margin: 8px; background: white; border-radius: 8px; padding: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="55" height="55" style="margin: 8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="55" height="55" style="margin: 8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55" style="margin: 8px;" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AiminoFrancisco&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AiminoFrancisco&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiminoFrancisco&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aiminofrancisco&row=1&column=4&margin-w=15" alt="aiminofrancisco" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AiminoFrancisco&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
   </a>
-</p>
-
-
-
-
-
-
-
-<h2 align="center">Idiomas y herramientas:</h2>
-
-<div align="center">
-  <div style="display: flex; flex-wrap: nowrap; justify-content: center;">
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" style="margin: 10px;" />
-    <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" style="margin: 10px;" />
-    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" style="margin: 10px;" />
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="margin: 10px;" />
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" style="margin: 10px;" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" style="margin: 10px;" />
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" style="margin: 10px;" />
-    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" style="margin: 10px;" />
-    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" style="margin: 10px;" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" style="margin: 10px;" />
-  </div>
-</div>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aiminofrancisco&rank=SSS,SS,S" alt="aiminofrancisco" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://developer.mozilla.org/es-ES/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" style="background-color: #FFF; border-radius: 10px; width: 50px; height: 50px; margin: 0 10px;" />
-  </a>
-</p>
-
-
-
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiminofrancisco&" alt="aiminofrancisco" />
 </p>
